@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+section{
+    width: 100%;
+    height: 100vh;
+    background: blue;
+}
+form{
+    width: 35%;
+    height: 70vh;
+    margin: 50px 0 0 480px;
+    background: white;
+    text-align: center;
+}
+i{
+    width: 17%;
+    height: 70px;
+    padding-top: 18px;
+    border-radius: 50px;
+    background: blue;
+    margin-top: 30px;
+    color: white;
+    font-size: 50px;
+    border: none;
+    outline: none;
+}
+h1{
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+.man{
+    width: 80%;
+    height: 40px;
+    margin-top: 35px;
+    background: rgba(179, 178, 178, 0.578);
+    border: none;
+    border-radius: 5px;
+}
+
+button{
+    width: 80%;
+    height: 40px;
+    margin-top: 40px;
+    background: blue;
+    border: none;
+    color: white;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+span{
+    gap: 65%;
+    display: flex;
+    margin-left: 47px;
+}
+
+p{
+    color: lightskyblue;
+}
+
+a{
+    text-decoration: none;
+    color: lightskyblue;
+}
